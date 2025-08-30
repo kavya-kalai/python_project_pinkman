@@ -10,8 +10,7 @@ You play as Pinkman, running through platforms, avoiding fire traps, and trying 
 ➡️ Left / Right – Move
 ⏫ Space – Jump (Double jump too!)
 
-🚀 How to Run
-
+🚀 How to Run   
 Install Python & Pygame
 pip install pygame
 
