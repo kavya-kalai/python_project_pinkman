@@ -11,9 +11,11 @@ You play as Pinkman, running through platforms, avoiding fire traps, and trying 
 ⏫ Space – Jump (Double jump too!)
 
 🚀 How to Run
+
 Install Python & Pygame
 pip install pygame
-Run the game:
+
+Run the game:  
 python pinkman.py
 
 ✨ About Me
